@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # custom config
-DATA=/path/to/datasets
+DATA=/NAS02/RawData # /path/to/datasets
 TRAINER=CoOp
 
 DATASET=$1
